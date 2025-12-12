@@ -125,7 +125,7 @@ class SynchronizeAction extends Action
 
         if (isset($result['updated_count']) && $result['updated_count'] > 0) {
             Notification::make()
-                ->title('Updated ' . $result['updated_count'] . ' existing translation(s) with new locale values')
+                ->title(__('translation-manager::translations.synchronization-updated', ['count' => $result['updated_count']]))
                 ->icon('heroicon-o-arrow-path')
                 ->iconColor('warning')
                 ->send();

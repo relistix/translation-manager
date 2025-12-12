@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'translation-navigation-label' => 'Мениджър на преводи',
+    'translation-label' => 'Превод|Преводи',
+    'group' => 'Преводна група',
+    'key' => 'Преводен ключ',
+    'preview-in-your-lang' => 'Преглед на вашия език (:lang)',
+    'synchronize' => 'Синхронизиране',
+    'synchronization-success' => 'Синхронизирани :count превода!',
+    'synchronization-updated' => 'Актуализирани :count съществуващи превода с нови стойности за езици',
+    'synchronization-deleted' => 'Изтрити :count неизползвани превода',
+    'preview' => 'Преглед',
+    'preview-description' => 'Това е пример на текущо избрания език (:lang)',
+    'add-translation-button' => 'Добави нов превод',
+    'translations-header' => 'Преводи',
+    'translation-language' => 'Език',
+    'translation-text' => 'Преведен текст',
+    'filter-not-translated' => 'Непреведено на',
+    'quick-translate' => 'Бърз превод',
+    'quick-translate-select-locale' => 'Изберете езика',
+    'quick-translate-translation-number' => 'Остават :total превода',
+    'quick-translate-skip' => 'Пропусни този превод',
+    'quick-translate-enter' => 'Въведете превод на ":lang":',
+    'quick-translate-save-and-continue' => 'Запази и продължи',
+    'quick-translate-nothing' => 'Няма нищо повече за превод!',
+];
