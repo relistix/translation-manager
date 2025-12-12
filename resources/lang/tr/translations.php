@@ -8,6 +8,7 @@ return [
     'preview-in-your-lang' => 'Aktif dil üzerinden ön izlemesini gör (:lang)',
     'synchronize' => 'Senkronize et',
     'synchronization-success' => ':count adet çeviri senkronize edildi!',
+    'synchronization-updated' => ':count mevcut çeviri yeni dil değerleriyle güncellendi',
     'synchronization-deleted' => ':count adet kullanılmayan çeviri silindi',
     'preview' => 'Ön İzleme',
     'preview-description' => 'Aktif olan dil üzerinde nasıl görünecek (:lang)',

@@ -8,6 +8,7 @@ return [
     'preview-in-your-lang' => 'المعاينة بلغتك الحالية (:lang)',
     'synchronize' => 'تزامن',
     'synchronization-success' => 'متزامنة: عدد الترجمات!',
+    'synchronization-updated' => 'تم تحديث :count ترجمة موجودة بقيم لغة جديدة',
     'synchronization-deleted' => 'محذوفة: عدد الترجمات غير المستخدمة',
     'preview' => 'Preview',
     'preview-description' => 'هذا مثال باللغة المحددة حاليًا (:lang)',

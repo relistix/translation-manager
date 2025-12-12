@@ -8,6 +8,7 @@ return [
     'preview-in-your-lang' => 'Anteprima nella tua lingua attuale (:lang)',
     'synchronize' => 'Sincronizza',
     'synchronization-success' => 'Sincronizzate :count traduzioni!',
+    'synchronization-updated' => 'Aggiornate :count traduzioni esistenti con nuovi valori di lingua',
     'synchronization-deleted' => 'Eliminate :count traduzioni non utilizzate',
     'preview' => 'Anteprima',
     'preview-description' => 'Questo è un esempio nella lingua attualmente selezionata (:lang)',
