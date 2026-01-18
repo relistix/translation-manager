@@ -86,7 +86,7 @@ class SynchronizeAction extends Action
             } else {
                 // Merge locale values into existing record
                 $currentText = $existingItem->text ?? [];
-                $merged = array_merge($currentText, $filteredText);
+                $merged = array_merge($filteredText, $currentText); // keeps the existing translations, adds the new languages
 
                 // Check if anything changed
                 $hasChanges = count(array_diff_assoc($merged, $currentText)) > 0
